@@ -1,0 +1,1 @@
+0df3bd75-6af9-4399-9cdb-d0f1670b1bcd chunk=50MiB encryption=none externaltype=rclone name=keeper prefix=git-annex rclone_layout=lower target=keeper type=external timestamp=1602503140.07005863s
